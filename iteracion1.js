@@ -8,7 +8,7 @@ window.onload = function() {
     
     button.addEventListener("click", function(event){
         console.log(event);
-        console.log(event);
+       
     })
 
 
